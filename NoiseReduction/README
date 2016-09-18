@@ -1,0 +1,15 @@
+To compile 
+1. Change directory to location where file is downloaded.
+2. On the comman line or terminal type 'make'
+
+This will compile the program on your machine
+
+To run the executable type
+
+./a.out signal.csv noise.csv noiseFree.csv 2
+
+Argument 
+1. For input Signal file (noisy data).
+2. Input Noise Data
+3. Output File which will have the noise free data
+4. Column Number begining from 1.
