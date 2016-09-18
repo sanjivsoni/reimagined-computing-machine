@@ -1,0 +1,5 @@
+*.csv
+*.out
+*.swp
+*.gch
+*.xcodeproj/
